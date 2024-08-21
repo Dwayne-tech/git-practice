@@ -1,0 +1,4 @@
+projects
+this project entails the initializing of a git repository
+afterwards we add 2 files 
+later we finish off by commiting and checking the commited files
